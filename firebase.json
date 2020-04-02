@@ -4,7 +4,7 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
-    "public": "/Users/ttttmmttddiikk/Desktop/時間決めWEB",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
